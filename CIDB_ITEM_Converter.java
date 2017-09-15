@@ -9,7 +9,10 @@ import java.sql.SQLException;
 import org.apache.log4j.Logger;
 
 public class CIDB_ITEM_Converter {
-	
+	/*
+	* Adding comments.....
+	*/
+		
 	static Logger log = Logger.getLogger(LedyardItemXrefUtil4.class);
 	String dbUrl ="jdbc:as400://RICWC01i/VBABU;naming=sql;extended dynamic=true;package=CIDBPKG;package add=true;package cache=true;package criteria=default;package library=Cdmdata;errors=full;libraries=,CIDB,SCDATA";
 	String user="CIDB";
