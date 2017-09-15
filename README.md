@@ -6,4 +6,4 @@ Markdown will convert this as a paragraph
 Lets try with differnt font properties
 
 _text in italic_ 
-__ text in bold __
+__text in bold__
